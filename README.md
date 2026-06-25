@@ -19,7 +19,7 @@ The system performs:
 
 ## Backend Framework
 
-### FastAPI
+### FastAPI ,  Python 3.11.5
 
 Purpose:
 
