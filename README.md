@@ -1,4 +1,4 @@
-# AI Worker - Face Verification Service
+# AI Worker - Face Verification Service(fast api)
 
 ## Overview
 
