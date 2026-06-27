@@ -233,7 +233,7 @@ Generate result
 
 ---
 
-# Similarity Calculation
+### Similarity Calculation
 
 The system compares:
 
