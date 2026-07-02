@@ -4,7 +4,7 @@
 
 This service verifies whether the face shown in a user's selfie video matches the face shown on the front image of their National ID card.
 
-The system performs:
+### The system performs:
 
 1. Face extraction from National ID image
 2. Face extraction from video frames
