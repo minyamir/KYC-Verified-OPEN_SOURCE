@@ -150,7 +150,7 @@ Basic motion-based liveness detection
 
 ---
 
-# Project Structure
+### Project Structure
 
 ```text
 ai-workers/
