@@ -7,11 +7,11 @@ This service verifies whether the face shown in a user's selfie video matches th
 ### The system performs:
 
 ### 1. Face extraction from National ID image
-2. Face extraction from video frames
-3. Face embedding generation
-4. Face similarity comparison
-5. Basic liveness detection
-6. Verification result generation
+### 2. Face extraction from video frames
+### 3. Face embedding generation
+### 4. Face similarity comparison
+### 5. Basic liveness detection
+### 6. Verification result generation
 
 ---
 
