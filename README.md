@@ -148,5 +148,3 @@ Current implementation:
 Basic motion-based liveness detection
 ```
 
----
-
